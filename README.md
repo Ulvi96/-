@@ -1,2 +1,2 @@
 # -
-Мой первый Git Repositury.
+Мой первый Git Repositоry.
